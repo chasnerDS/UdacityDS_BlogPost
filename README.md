@@ -1,6 +1,4 @@
-1. Which months are most profitable in Seattle and in Boston?
-2. Can a model trained on feature-data from one city predict prices in the other city?
-    a. Train on Seattle data
-    b. Train on Boston data
-    c. Train on combined data
-3. How much does model performance improve, if we include reviews?
+1. Which months are most profitable in Seattle?
+2. How to become a top earner in Airbnb in Seattle?
+3. How well does a model trained without reviews perform?
+4. How much does model performance improve, if we include reviews?
